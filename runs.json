@@ -1,0 +1,30 @@
+{
+  "runs": {
+    "run_name": {
+      "0": "run1",
+      "1": "run2",
+      "2": "run3"
+    },
+    "date": {
+      "0": "2020:12:15",
+      "1": "2020:12:15",
+      "2": "2020:12:15"
+    },
+    "machine": {
+      "0": "heretix",
+      "1": "asterix",
+      "2": "obelix"
+    },
+    "experiment_name": {
+      "0": "exp_1.1",
+      "1": "exp_1.2",
+      "2": "exp_2.1"
+    },
+    "run_folder": {
+      "0": "folder_1",
+      "1": "folder_5",
+      "2": "folder_27"
+    }
+  },
+  "instrument": "instrument_hammer"
+}
