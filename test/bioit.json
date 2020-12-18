@@ -1,0 +1,28 @@
+{
+  "bcl_overview_dict": {
+    "none": 1,
+    "scheduled": 2,
+    "running": 3,
+    "finished": 4,
+    "failed": 5
+  },
+  "demux_overview_dict": {
+    "none": 5,
+    "scheduled": 4,
+    "running": 3,
+    "finished": 2,
+    "failed": 1
+  },
+  "task_status_dict": {
+    "none": 101,
+    "scheduled": 12,
+    "running": 13,
+    "finished": 14,
+    "failed": 15
+  },
+  "status_overview_dict": {
+    "BCL": 33,
+    "demux": 44,
+    "tasks": 55
+  }
+}
