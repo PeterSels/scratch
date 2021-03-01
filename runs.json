@@ -6,7 +6,10 @@
       "2": "gender_run3",
       "3": "genome_run1",
       "4": "genome_run2",
-      "5": "genome_run3"
+      "5": "genome_run3",
+      "6": "holoviz_run1",
+      "7": "holoviz_run2",
+      "8": "holoviz_run3"
     },
     "date": {
       "0": "2020:12:15",
@@ -14,7 +17,10 @@
       "2": "2021:02:15",
       "3": "2020:12:15",
       "4": "2021:01:11",
-      "5": "2021:02:15"
+      "5": "2021:02:15",
+      "6": "2020:12:15",
+      "7": "2021:01:11",
+      "8": "2021:02:15"
     },
     "machine": {
       "0": "heretix",
@@ -22,7 +28,10 @@
       "2": "obelix",
       "3": "idefix",
       "4": "panoramix",
-      "5": "nestorix"
+      "5": "nestorix",
+      "6": "idefix",
+      "7": "panoramix",
+      "8": "nestorix"
     },
     "experiment_name": {
       "0": "exp_1.1",
@@ -30,7 +39,10 @@
       "2": "exp_1.3",
       "3": "exp_2.1",
       "4": "exp_2.2",
-      "5": "exp_2.3"
+      "5": "exp_2.3",
+      "6": "exp_3.1",
+      "7": "exp_3.2",
+      "8": "exp_3.3"
     },
     "run_folder": {
       "0": "folder_1",
@@ -38,7 +50,10 @@
       "2": "folder_27",
       "3": "folder_11",
       "4": "folder_3",
-      "5": "folder_9"
+      "5": "folder_9",
+      "6": "folder_2",
+      "7": "folder_33",
+      "8": "folder_4"
     }
   },
   "instrument": "instrument_hammer"
